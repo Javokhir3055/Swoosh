@@ -70,10 +70,10 @@
             android:layout_height="wrap_content"
             android:background="@drawable/swoosh_toggle"
             android:onClick="onMensClicked"
-            android:text="@string/mens"
+            android:text="@string/men"
             android:textColor="@android:color/white"
-            android:textOff="@string/mens"
-            android:textOn="@string/mens" />
+            android:textOff="@string/men"
+            android:textOn="@string/men" />
 
         <ToggleButton
             android:id="@+id/womensLeagueBtn"
@@ -83,10 +83,10 @@
             android:layout_marginBottom="16dp"
             android:background="@drawable/swoosh_toggle"
             android:onClick="onWomensClicked"
-            android:text="@string/womens"
+            android:text="@string/women"
             android:textColor="@android:color/white"
-            android:textOff="@string/womens"
-            android:textOn="@string/womens" />
+            android:textOff="@string/women"
+            android:textOn="@string/women" />
 
         <ToggleButton
             android:id="@+id/coedLeagueBtn"

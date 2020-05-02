@@ -7,8 +7,8 @@
     <string name="beginner">BEGINNER</string>
     <string name="baller">BALLER</string>
     <string name="finish">FINISH</string>
-    <string name="mens">mens</string>
-    <string name="womens">womens</string>
+    <string name="men">men</string>
+    <string name="women">women</string>
     <string name="co_ed">co_ed</string>
     <string name="next">next</string>
     <string name="go_all_in">GO ALL IN</string>
